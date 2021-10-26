@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/admin/order_list.jsp=UTF-8
+encoding//src/com/controller/AdminController.java=UTF-8
+encoding//src/com/controller/AdminInterceptor.java=UTF-8
+encoding//src/com/controller/IndexController.java=UTF-8
+encoding//src/com/controller/UserController.java=UTF-8
+encoding//src/com/dao/AdminsDao.java=UTF-8
+encoding//src/com/dao/GoodsDao.java=UTF-8
+encoding//src/com/dao/OrdersDao.java=UTF-8
+encoding/<project>=UTF-8
